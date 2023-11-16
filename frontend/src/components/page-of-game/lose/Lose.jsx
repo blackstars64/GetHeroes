@@ -7,7 +7,7 @@ function Lose({ clickRestart, setGetToken }) {
   return (
     <>
       <img className="pow" src={pow} alt="pow" />
-      <p className="loseP">Vous n'avez pas réussi à trouver le bon héro !!</p>
+      <p className="loseP">Vous n'avez pas réussi à trouver le bon héros !!</p>
       <button
         className="buttonP"
         type="button"
